@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
     Realm mRealm;
     private SubscriptionList mSubs;
-    private static final String SERVER = "realm.example.com";
+    private static final String SERVER = "123.45.67.89";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
